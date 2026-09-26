@@ -1,4 +1,4 @@
-# AI-University-Matching
+# AI-University-Matching Hackathon
 # AI University & Supervisor Matching
 
 **Author:** Syad Ali Raza  
